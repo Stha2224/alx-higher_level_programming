@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# 101-stats.py
+# 14-pascal_triangle.py
 """Defines a Pascal's Triangle function."""
 
 
